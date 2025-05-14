@@ -5,7 +5,7 @@
 1. Clone the project from the repository:
 
 ```bash
-git clone git@github.com:den01101/ng_tt.git
+git clone git@github.com:den01101/nuxgame.git
 ```
 
 2. Start and build containers
